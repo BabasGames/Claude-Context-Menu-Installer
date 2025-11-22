@@ -23,6 +23,8 @@ A beautiful Windows installer that adds Claude AI to your File Explorer context 
 
 <img width="603" height="731" alt="image" src="https://github.com/user-attachments/assets/8d7ec591-2302-47ce-8a83-c078fa7774a8" />
 
+<img width="823" height="720" alt="{9B246624-AB19-4D7B-8AEC-1834B08436D5}" src="https://github.com/user-attachments/assets/a3b48a8c-72d9-49c0-8f0b-c8729f531a47" />
+
 The installer features a clean, modern interface with:
 - Header with Claude branding
 - Checkbox selection for each menu option
@@ -246,4 +248,5 @@ If you encounter any issues or have questions:
 ---
 
 **Made with ❤️ for the Claude community**
+
 
