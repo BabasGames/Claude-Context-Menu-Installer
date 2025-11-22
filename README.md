@@ -19,9 +19,7 @@ A beautiful Windows installer that adds Claude AI to your File Explorer context 
 - **🚀 One-Click Install** - Simple installation with admin privilege request
 - **📦 Standalone** - Single executable with no dependencies
 
-## 🖼️ Screenshot
-
-<img width="603" height="731" alt="image" src="https://github.com/user-attachments/assets/22604eb9-65b9-4301-be06-3c6851c4b42c" />
+## 🖼️ Screenshots
 
 The installer features a clean, modern interface with:
 - Header with Claude branding
@@ -41,7 +39,7 @@ The installer features a clean, modern interface with:
 - Sudo enabled in Windows settings
 
 ### For Menu to Work
-- [Claude AI CLI installed](https://claude.com/product/claude-code)
+- Claude AI CLI installed ([Download](https://claude.ai))
 
 ## 🚀 Quick Start
 
