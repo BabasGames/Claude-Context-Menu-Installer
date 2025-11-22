@@ -41,7 +41,7 @@ The installer features a clean, modern interface with:
 - Sudo enabled in Windows settings
 
 ### For Menu to Work
-- [(Claude AI CLI installed)](https://claude.com/product/claude-code)
+- [Claude AI CLI installed](https://claude.com/product/claude-code)
 
 ## 🚀 Quick Start
 
